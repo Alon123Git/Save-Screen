@@ -1,0 +1,8 @@
+C:\Users\Alon\Desktop\Object Oriented Programing - C#\FinelProject-ScreenSaver\FinelProject-ScreenSaver\bin\Debug\FinelProject-ScreenSaver.exe.config
+C:\Users\Alon\Desktop\Object Oriented Programing - C#\FinelProject-ScreenSaver\FinelProject-ScreenSaver\bin\Debug\FinelProject-ScreenSaver.exe
+C:\Users\Alon\Desktop\Object Oriented Programing - C#\FinelProject-ScreenSaver\FinelProject-ScreenSaver\bin\Debug\FinelProject-ScreenSaver.pdb
+C:\Users\Alon\Desktop\Object Oriented Programing - C#\FinelProject-ScreenSaver\FinelProject-ScreenSaver\obj\Debug\FinelProject-ScreenSaver.csproj.AssemblyReference.cache
+C:\Users\Alon\Desktop\Object Oriented Programing - C#\FinelProject-ScreenSaver\FinelProject-ScreenSaver\obj\Debug\FinelProject-ScreenSaver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alon\Desktop\Object Oriented Programing - C#\FinelProject-ScreenSaver\FinelProject-ScreenSaver\obj\Debug\FinelProject-ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\Object Oriented Programing - C#\FinelProject-ScreenSaver\FinelProject-ScreenSaver\obj\Debug\FinelProject-ScreenSaver.exe
+C:\Users\Alon\Desktop\Object Oriented Programing - C#\FinelProject-ScreenSaver\FinelProject-ScreenSaver\obj\Debug\FinelProject-ScreenSaver.pdb
